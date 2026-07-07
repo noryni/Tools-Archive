@@ -1,0 +1,18 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Archives 
+# *.zip
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment files
+.env
